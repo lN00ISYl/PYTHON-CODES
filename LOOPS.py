@@ -1,7 +1,7 @@
 #for examples
 
-for GAE in range (1,10 +1):
-    print(GAE)
+for BACON in range (1,10 +1):
+    print(BACON)
   
   
   #while examples
