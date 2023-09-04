@@ -1,6 +1,6 @@
 username = input("USERNAME:")
 password = input("PASSWORD:")
-username_right= "admin"
+username_right= "KARLOS"
 password_right= "1234"
 
 if username == username_right and password == password_right:
