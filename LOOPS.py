@@ -34,3 +34,13 @@ for number in range(number1):
         continue
     else:
        print(number)
+       
+number = int(input("Enter a number:"))
+ 
+fors = (number) /3
+
+if fors % 1==0:
+   print("True")
+else:
+   print("false")
+   
